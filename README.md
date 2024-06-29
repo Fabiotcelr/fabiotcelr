@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+    
 </head>
 <body>
 
@@ -21,13 +21,13 @@
 </p>
 <br>
 <ul>
-    <lo class="items"> 🌍 I am based in Colombia.</lo>
+    <li class="items"> 🌍 I am based in Colombia.</li>
     <br>
-    <lo class="items"> 🧠 I'm learning Angular.js.</lo>
+    <li class="items"> 🧠 I'm learning Angular.js.</li>
     <br>
-    <lo class="items"> 🤝 I am open to collaborating on Python and JavaScript projects.</lo>
+    <li class="items"> 🤝 I am open to collaborating on Python and JavaScript projects.</li>
     <br>
-    <lo class="items"> ⚡ I like self-learning systems.</lo>
+    <li class="items"> ⚡ I like self-learning systems.</li>
 </ul>
 
 

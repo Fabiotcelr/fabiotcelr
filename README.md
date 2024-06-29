@@ -26,30 +26,29 @@
 <br>
 <div class="skills">
     <h2>Tecnologies</h2>
-
     <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" width="40" alt="">
-        </a>
-        <a href="https://www.typescriptlang.org/">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="40" width="40" alt="">
-        </a>
-        <a href="https://angular.io/">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" height="40" width="40" alt="">
-        </a>
-        <a href="https://reactjs.org/">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="40" width="40" alt="">
-        </a>
-        <a href="https://www.mysql.com">
-            <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png" height="40" width="40" alt="">
-        </a>
-        <a href="https://vuejs.org">
-            <img src="https://vuejs.org//images/logo.png" height="40" width="40" alt="">
-        </a>
-        <a href="https://www.python.org/">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="40" width="40" alt="">
-        </a>
-    </p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" width="40" alt="JavaScript">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="40" width="40" alt="TypeScript">
+    </a>
+    <a href="https://angular.io/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" height="40" width="40" alt="AngularJS">
+    </a>
+    <a href="https://reactjs.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="40" width="40" alt="React">
+    </a>
+    <a href="https://www.mysql.com">
+        <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png" height="40" width="40" alt="MySQL">
+    </a>
+    <a href="https://vuejs.org">
+        <img src="https://vuejs.org/images/logo.png" height="40" width="40" alt="Vue.js">
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="40" width="40" alt="Python">
+    </a>
+</p>
 </div>
 
 <p align="center">
